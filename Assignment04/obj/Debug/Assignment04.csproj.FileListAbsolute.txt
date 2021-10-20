@@ -1,0 +1,9 @@
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\bin\Debug\System.Drawing.Common.dll
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\obj\Debug\Assignment04.csprojAssemblyReference.cache
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CopyComplete
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+C:\Users\prash\Desktop\ProgrammingII\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
